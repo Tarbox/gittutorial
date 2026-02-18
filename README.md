@@ -336,6 +336,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amin :innocent:](https://github.com/Amin-esh)
 - [## Ali Takrimi ## :relaxed:](https://github.com/AliTakrimi)
 - [Neo :relaxed:](https://github.com/neomn)
+- [Tarbox :smiley_cat:](https://github.com/Tarbox)
 - [Mohammad Rostami](https://github.com/mohammadrostamiorg)
 - [CliAli :ghost:](https://github.com/cliali)
 - [Mehrdad Abdi 😁](https://github.com/mehrdadabdi1012)
